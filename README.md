@@ -1,2 +1,3 @@
 # GPTChatbot
-This repository contains a 1B-parameter GPT-NeoX–based Japanese language model trained from scratch using continued pretraining (CPT).
+このリポジトリには、継続的な事前学習（CPT）を使用して最初から学習した1BパラメータGPT-NeoXベースの日本語モデルが含まれています。
+2026年2月2日の時点では未完成です。公開までお待ちください。
