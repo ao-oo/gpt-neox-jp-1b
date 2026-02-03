@@ -1,4 +1,4 @@
-#gpt-neox-jp-1b
+## gpt-neox-jp-1b
 
 ## 概要
 本リポジトリは、日本語GPT系言語モデル（GPT-NeoXアーキテクチャ）を
