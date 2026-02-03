@@ -9,6 +9,14 @@
 - 日本語CPT（Wikipedia / Wikibooks）
 - Kaggle T4 ×2 環境での学習
 
+## モデル構成（概要）
+- Architecture: GPT-NeoX
+- Parameters: ~1B
+- Hidden size: 1536
+- Layers: 24
+- Attention heads: 16
+- Context length: 1024
+
 ## 注意
 - 本モデルは研究・学習目的であり、商用利用は想定していません。
 
