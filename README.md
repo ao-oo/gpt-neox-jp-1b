@@ -6,8 +6,9 @@
 
 ## 特徴
 - GPT-NeoX ベース（約1Bパラメータ）
-- 日本語CPT（Wikipedia / Wikibooks）
-- Kaggle T4 ×2 環境での学習
+- 日本語CPT（Wikipedia / Wikibooks / c4 / JaMARD）
+- Kaggle T4 ×2 
+- Kaggle v5e-8 環境での学習
 
 ## モデル構成（概要）
 - Architecture: GPT-NeoX
@@ -22,7 +23,7 @@
 
 ## ステータス
 - 本モデルは現在も学習および調整途中です。
-学内展示・研究検証を目的として公開しており、
+研究検証を目的として公開しており、
 今後も更新される可能性があります。
 
 ## ライセンス
