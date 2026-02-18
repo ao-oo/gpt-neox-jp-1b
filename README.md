@@ -7,8 +7,8 @@
 ## 特徴
 - GPT-NeoX ベース（約1Bパラメータ）
 - 日本語CPT（Wikipedia / Wikibooks / c4 / JaMARD）
-- Kaggle T4 ×2 
-- Kaggle v5e-8 環境での学習
+- Kaggle T4 ×2(GPU)
+- Kaggle v5e-8(TPU) 環境での学習
 
 ## モデル構成（概要）
 - Architecture: GPT-NeoX
