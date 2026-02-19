@@ -17,6 +17,8 @@
 - Layers: 24
 - Attention heads: 16
 - Context length: 1024
+## ディレクトリ
+- docs: 論文(PDF)
 
 ## 注意
 - 本モデルは研究・学習目的であり、商用利用は想定していません。
