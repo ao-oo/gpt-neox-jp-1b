@@ -3,7 +3,7 @@
 ## 概要
 本リポジトリは、日本語GPT系言語モデル（GPT-NeoXアーキテクチャ）を
 継続事前学習（CPT）およびSFTの検証目的で構築したものです。
-
+## モデルの公開ページはこちら[https://huggingface.co/aooao/gpt-neox-jp-1b]
 ## 特徴
 - GPT-NeoX ベース（約1Bパラメータ）
 - 日本語CPT（Wikipedia / Wikibooks / c4 / JaMARD）
